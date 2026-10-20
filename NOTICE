@@ -1,0 +1,23 @@
+Seeghra
+Copyright 2026 itsgrj
+
+This product includes design tokens, component specifications and icons from
+the IBM Carbon Design System (https://github.com/carbon-design-system/carbon),
+Copyright IBM Corp., licensed under the Apache License, Version 2.0.
+
+Changes made to the Carbon material:
+- Typeface changed from IBM Plex to Geist Sans and Geist Mono.
+- All border radius values set to 0.
+- Tag labels, the grid container and numeric table columns align to the start.
+- Carbon AI and chat tokens removed.
+- Custom properties renamed from --cds- to --sg-.
+- Structural tokens and Geist Pixel font tokens added.
+
+This product includes the Geist, Geist Mono and Geist Pixel fonts,
+Copyright (c) 2023 Vercel, in collaboration with basement.studio,
+licensed under the SIL Open Font License, Version 1.1 (see fonts/OFL-Geist.txt).
+Geist Pixel font files are embedded in dist/tokens.css unmodified.
+
+Seeghra is an independent project. It is not affiliated with or endorsed by
+IBM or Vercel. IBM, Carbon and IBM Plex are trademarks of IBM Corp.
+Geist is a trademark of Vercel, Inc.
